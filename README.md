@@ -1,4 +1,4 @@
-# Slides
+# 221208-awskrug-golang-apigw-lambda
 
 ## Requires
 - Docker
